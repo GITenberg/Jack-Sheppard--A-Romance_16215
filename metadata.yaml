@@ -1,0 +1,42 @@
+_repo: Jack-Sheppard--A-Romance_16215
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ainsworth, William Harrison
+    aliases:
+    - Ticheburn, Cheviot
+    - Ainsworth, Harrison
+    - Ainsworth, W. H. (William Harrison)
+    - Ainworth, W. Harrison (William Harrison)
+    - Ainsworth, W. Harrison (William Harrison)
+    birthdate: 1805
+    deathdate: 1882
+    gutenberg_agent_id: '1056'
+    url: http://www.gutenberg.org/2009/agents/1056
+    wikipedia: http://en.wikipedia.org/wiki/William_Harrison_Ainsworth
+description: A master of drinking, whoring, theft - and escape! While Jack Sheppard
+  seems marked from birth for a terrible end, his wit and charm might just be able
+  to cheat fate. Fate, however, seems eager to cheat him out of an honest living,
+  when Jack begins visiting the notorious Black Lion, drinking den of the worst criminals
+  in London. Soon he is one of the most famous scoundrels in the city - not for his
+  crimes, but for the wonderful fact that not one of the King's fine prisons can hold
+  him. But Jack's luck will have to run out eventually...
+gutenberg_issued: '2005-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16215'
+language: en
+publication_note: "Internationale Bibliothek G M B H Berlin\r\n1922"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Thieves -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Sheppard, Jack, 1702-1724 -- Fiction'
+title: 'Jack Sheppard: A Romance'
+url: http://www.gutenberg.org/ebooks/16215
